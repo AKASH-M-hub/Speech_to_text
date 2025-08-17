@@ -1,5 +1,5 @@
-streamlit
-openai-whisper
-torch
-torchaudio
+sstreamlit
+SpeechRecognition
+pydub
 ffmpeg-python
+fpdf
