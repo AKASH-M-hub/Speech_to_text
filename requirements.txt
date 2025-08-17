@@ -1,5 +1,7 @@
-sstreamlit
+streamlit
 SpeechRecognition
 pydub
-ffmpeg-python
 fpdf
+python-docx
+matplotlib
+audio-recorder-streamlit
